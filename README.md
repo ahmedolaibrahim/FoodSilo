@@ -1,1 +1,2 @@
 # FoodSilo
+FoodSilo is a web application tool that helps to determine a country' self sufficiency in terms of food production,identify where foods are produced and where they are needed in order to tackle future food problems using goverment and crowd sourced data.based on the data, we where able to visualise information on arable land use gloabally,show each country's arable land usage,description of each country's import and export commodities,we also created a forum to engage citizens in discussing about current trade practices.
